@@ -1,0 +1,28 @@
+[
+    {
+      "domain": "studystark.site",
+      "expirationDate": 1755967728,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "verified_task",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "dHJ1ZQ=="
+    },
+    {
+      "domain": "studystark.site",
+      "expirationDate": 1755967728,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "countdown_end_time",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "MTc1NTk2NzcyODI3Ng=="
+    }
+  ]
