@@ -1,4 +1,4 @@
-[                                                                                 "url": "https://studystark.site",                                                "cookies": [                                                                       {                                                                                  "domain": "studystark.site",
+{                                                                                  "url": "https://studystark.site",                                                "cookies": [                                                                       {                                                                                  "domain": "studystark.site",
       "expirationDate": 1756101707,
       "hostOnly": true,
       "httpOnly": false,
@@ -36,3 +36,4 @@
       "value": "MTc1NjE4NDcxOTQ3NA=="
     }
   ]
+}
