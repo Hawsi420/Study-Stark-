@@ -1,44 +1,44 @@
 {
-   "url":"https://studystark.site",
-   "cookies":[
-      {
-         "domain":"studystark.site",
-         "expirationDate":1756101707,
-         "hostOnly":true,
-         "httpOnly":false,
-         "name":"task_start_time",
-         "path":"/",
-         "sameSite":"strict",
-         "secure":true,
-         "session":false,
-         "storeId":"0",
-         "value":"MTc1NjA5ODEwNzkxMA=="
-      },
-      {
-         "domain":"studystark.site",
-         "expirationDate":1756184719,
-         "hostOnly":true,
-         "httpOnly":false,
-         "name":"verified_task",
-         "path":"/",
-         "sameSite":"strict",
-         "secure":true,
-         "session":false,
-         "storeId":"0",
-         "value":"dHJ1ZQ=="
-      },
-      {
-         "domain":"studystark.site",
-         "expirationDate":1756184719,
-         "hostOnly":true,
-         "httpOnly":false,
-         "name":"countdown_end_time",
-         "path":"/",
-         "sameSite":"strict",
-         "secure":true,
-         "session":false,
-         "storeId":"0",
-         "value":"MTc1NjE4NDcxOTQ3NA=="
-      }
-   ]
+  "url": "https://studystark.site",
+  "cookies": [
+    {
+      "domain": "studystark.site",
+      "expirationDate": 1756101707,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "task_start_time",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "MTc1NjA5ODEwNzkxMA=="
+    },
+    {
+      "domain": "studystark.site",
+      "expirationDate": 1756184719,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "verified_task",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "dHJ1ZQ=="
+    },
+    {
+      "domain": "studystark.site",
+      "expirationDate": 1756184719,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "countdown_end_time",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "MTc1NjE4NDcxOTQ3NA=="
+    }
+  ]
 }
