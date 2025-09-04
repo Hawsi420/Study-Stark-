@@ -1,7 +1,7 @@
 [
     {
       "domain": "studystark.site",
-      "expirationDate": 1756550778,
+      "expirationDate": 1756999011,
       "hostOnly": true,
       "httpOnly": false,
       "name": "task_start_time",
@@ -10,11 +10,11 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "MTc1NjU0NzE3ODA3Mg=="
+      "value": "MTc1Njk5NTQxMTMyNw=="
     },
     {
       "domain": "studystark.site",
-      "expirationDate": 1756633747,
+      "expirationDate": 1757082054,
       "hostOnly": true,
       "httpOnly": false,
       "name": "verified_task",
@@ -27,7 +27,7 @@
     },
     {
       "domain": "studystark.site",
-      "expirationDate": 1756633747,
+      "expirationDate": 1757082054,
       "hostOnly": true,
       "httpOnly": false,
       "name": "countdown_end_time",
@@ -36,7 +36,7 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "MTc1NjYzMzc0NzI3Nw=="
+      "value": "MTc1NzA4MjA1NDUxOA=="
     },
     {
       "domain": "studystark.site",
@@ -48,6 +48,6 @@
       "secure": true,
       "session": true,
       "storeId": "0",
-      "value": "66393b1827f5a3af52b2a5773c3bfddc"
+      "value": "fdaa9cde5d8edec40cc1f02c24ee4f6d"
     }
   ]
